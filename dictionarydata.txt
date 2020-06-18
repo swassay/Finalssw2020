@@ -1,0 +1,3 @@
+Apple-fruit,tech firm
+Table-an object,contains rows and columns when used in context of computers
+Orange-color,it is secondary color you get by mixing read and yellow
